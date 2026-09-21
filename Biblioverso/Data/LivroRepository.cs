@@ -1,3 +1,5 @@
+using Biblioverso.Models;
+
 namespace Biblioverso.Data
 {
     public class LivroRepoaitory
