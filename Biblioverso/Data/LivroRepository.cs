@@ -12,5 +12,10 @@ namespace Biblioverso.Data
             _tabelaLivros.Add(livro);
         }
 
+        public List<Livro> ObterTodos()
+        {
+            return _tabelaLivros;
+        }
+
     }
 }

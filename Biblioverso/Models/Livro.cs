@@ -1,4 +1,4 @@
-namespace Biblioverso
+namespace Biblioverso.Models
 {
     public class Livro
     {
